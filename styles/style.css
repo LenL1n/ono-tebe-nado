@@ -226,7 +226,7 @@
 .footer {
   display: grid;
   justify-content: space-between;
-  grid-template-columns: 265px 164px 240px;                                   
+  grid-template-columns: 265px 164px 240px;
   height: 180px;
 }
 
